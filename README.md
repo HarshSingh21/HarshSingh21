@@ -1,6 +1,7 @@
 
 
 [![An image of @singh_harsh14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singh_harsh14)](https://holopin.io/@singh_harsh14)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c33b807e-8337-4b81-8189-d08b3c7727b4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 - 👋 Hi, I’m @HarshSingh
