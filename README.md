@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
+
 [![An image of @singh_harsh14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singh_harsh14)](https://holopin.io/@singh_harsh14)
 
 
@@ -26,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/singh_harsh14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singh_harsh14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/singhharsh14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/singhharsh14/" height="30" width="40" /></a>
 <a href="https://medium.com/@singhharsh8283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@singhharsh8283" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/singh_harsh14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/singh_harsh14/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/singh_harsh14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/singh_harsh14/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/singh_harsh14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/singh_harsh14/" height="30" width="40" /></a>
 <a href="/https://harshsingh.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://harshsingh.co/" height="30" width="40" /></a>
 </p>
