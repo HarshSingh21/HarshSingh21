@@ -1,41 +1,149 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Harsh Singh</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harsh%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Go%20%E2%80%A2%20Ruby&descAlignY=52&descSize=18)
 
-[![An image of @singh_harsh14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singh_harsh14)](https://holopin.io/@singh_harsh14)
+**Software Engineer - 1 @ FourKites** · **Bangalore, India**
 
+`Java 21` · `Go` · `Ruby on Rails` · `Spring Boot` · `Kafka` · `Kubernetes`
 
-- 👀 I’m passionate about building innovative solutions that enhance user experiences and make a positive impact on the world.
-- 🌱 I’m a Frontend Developer with a strong foundation in technologies such as React.js, JavaScript, and HTML/CSS. Currently, I am expanding my skills in Backend Development with frameworks like Node.js and Express.js, as well as cloud platforms like AWS and Azure. 
-- 💞️ I’m looking to collaborate on WEB APP And Devops.
-- 📫 How to reach me Singh_harsh14 ( insta / twitter) ||  harshsingh.co 
+<a href="https://leetcode.com/u/singh_harsh14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/a.out"><img src="https://img.shields.io/badge/Codeforces-Master_2160-58A6FF?style=flat-square&logo=codeforces&logoColor=white"/></a>
+<a href="https://linkedin.com/in/singhharsh14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://singhharsh.dev"><img src="https://img.shields.io/badge/singhharsh.dev-000?style=flat-square&logo=safari&logoColor=white"/></a>
 
-<!---
-HarshSingh21/HarshSingh21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
 
-<h3 align="center">
- An aspiring software engineer set to graduate with a B.Tech in Computer Science Engineering in June 2025 with a major in Full Stack Development and a minor in DevOps.
-</h3>
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+```go
+package main
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/singh_harsh14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singh_harsh14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/singhharsh14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/singhharsh14/" height="30" width="40" /></a>
-<a href="https://medium.com/@singhharsh8283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@singhharsh8283" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/singh_harsh14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/singh_harsh14/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/singh_harsh14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/singh_harsh14/" height="30" width="40" /></a>
-<a href="/https://harshsingh.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://harshsingh.co/" height="30" width="40" /></a>
+type BackendEngineer struct {
+    Name         string
+    Role         string
+    Languages    []string
+    Frameworks   []string
+    Databases    []string
+    MessageQueue []string
+    Cloud        []string
+}
+
+func main() {
+    harsh := BackendEngineer{
+        Name:         "Harsh Singh",
+        Role:         "Software Engineer - 1 @ FourKites",
+        Languages:    []string{"Java 21", "Go", "Ruby", "Python"},
+        Frameworks:   []string{"Spring Boot 3.5", "Rails", "Hibernate", "GraphQL"},
+        Databases:    []string{"PostgreSQL", "MongoDB", "Redis", "Elasticsearch"},
+        MessageQueue: []string{"Apache Kafka", "Sidekiq", "Dead Letter Queues"},
+        Cloud:        []string{"AWS", "Azure", "Kubernetes", "Terraform", "ArgoCD"},
+    }
+    
+    harsh.BuildDistributedSystems()     // Global Address Service (850 RPS) | CIVMS | Event-driven
+    harsh.MigrateCloudInfrastructure()  // AWS → Azure | Zero downtime | 847GB PostgreSQL
+    harsh.ProcessHighThroughput()       // 4500 msgs/sec | 5M traces/day | 20+ carriers
+    harsh.DesignScalableSystems()       // Cache-Aside pattern | DLQ handling | Circuit breakers
+    harsh.BuildRCAAutomation()          // Claude API | 87% accuracy | 72% faster resolution
+}
+```
+
+---
+
+<table>
+<tr><td width="50%">
+
+```yaml
+career:
+  2026:
+    role: Software Engineer - 1
+    focus: Contributing & building products
+           that help millions of users worldwide
+  
+  2025: 
+    role: Software Engineer - 1
+    company: FourKites Inc.
+    focus: Distributed Systems, Cloud Migration
+    
+  2024:
+    role: SWE Intern
+    company: FourKites Inc.
+    focus: Microservices, Kafka, Observability
+    
+  2021-2023:
+    focus: Full Stack Development
+    stack: [Spring Boot, React, Node.js]
+
+competitive_programming:
+  rating: Master (2160)
+  solved: 855+
+```
+
+</td><td width="50%">
+
+```sql
+SELECT metric, result FROM impact;
+
+┌──────────────────┬───────────┐
+│ p95_latency      │ ↓ 79%     │
+│ kafka_lag        │ ↓ 87%     │
+│ mttr             │ ↓ 72%     │
+│ deploy_time      │ ↓ 80%     │
+│ db_migrated      │ 847 GB    │
+│ cutover          │ 10 min    │
+│ downtime         │ ZERO      │
+└──────────────────┴───────────┘
+```
+
+</td></tr>
+</table>
+
+---
+
+<details>
+<summary><b>⚙️ Tech Stack</b></summary>
+<br/>
+
+| | |
+|:--|:--|
+| **Languages** | `Java 21` `Go` `Ruby` `Python` `C++` `JavaScript` `SQL` `Bash` |
+| **Frameworks** | `Spring Boot 3.5` `REST APIs` `Microservices` `Design Patterns` `ReactJS` `Angular` `Node.js` |
+| **Cloud & DevOps** | `AWS` `Azure` `Docker` `Kubernetes` `Terraform` `CI/CD` `Jenkins` `ArgoCD` |
+| **Databases** | `PostgreSQL` `MongoDB` `Redis` `MySQL` `DynamoDB` `Elasticsearch` `Cosmos DB` |
+| **Tools** | `Kafka` `Airflow` `OpenTelemetry` `Signoz` `Datadog` `Chronosphere` `Git` `JIRA` `Maven` `Gradle` |
+| **AI & ML** | `Claude API` `LLMs` `RAG` `Prompt Engineering` `GenAI` |
+| **Fundamentals** | `System Design` `DSA` `OOP` `SOLID` `Design Patterns` `Distributed Systems` `Event-Driven Architecture` |
+
+</details>
+
+---
+
+<div align="center">
+
+`#53 Global` Edu Round 180 · `#76/37K` CF Round 996 · `#329` IMC Trading · `Semifinalist` India Grid 6.0
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/HarshSingh21">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshSingh21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs" alt="GitHub Stats" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://github.com/HarshSingh21">
+  <img src="https://streak-stats.demolab.com/?user=HarshSingh21&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</a>
+</p>
 
+</div>
 
+---
 
+<div align="center">
 
+<a href="mailto:singhharsh8283@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/singh_harsh14"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+<a href="https://leetcode.com/u/singh_harsh14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="https://medium.com/@singhharsh8283"><img src="https://img.shields.io/badge/Medium-000?style=flat-square&logo=medium&logoColor=white"/></a>
 
+</div>
