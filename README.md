@@ -123,11 +123,12 @@ SELECT metric, result FROM impact;
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/HarshSingh21">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshSingh21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs" alt="GitHub Stats" />
 </a>
-</p>
+</p> -->
+
 
 <p align="center">
 <a href="https://github.com/HarshSingh21">
